@@ -1,0 +1,8 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* This justifies all paragraphs and list items */
+p, li {
+  text-align: justify;
+}
