@@ -12,7 +12,7 @@ Beyond my coursework and research, I have a strong interest in problem-solving a
 
 **1D Bosonic Quantum Gases (URECA Project):** For my ongoing URECA project under the supervision of [Professor Nelly Ng Huei Ying](https://dr.ntu.edu.sg/entities/person/Nelly-Ng-Huei-Ying), I am conducting a theoretical and computational investigation into the relaxation dynamics and thermalization of 1D bosonic quantum gases. This research uses Python to model and simulate these systems using the exact solutions of the Lieb-Liniger model.
 
-**Review of Gauge Field Theories (Odyssey Research Project):** I am conducting a rigorous review of quantum mechanical formalism and relativistic matter fields, with a specific focus on the Klein-Gordon and Dirac equations. The primary objective of this work is to study in depth the theoretical formulation of Abelian and non-Abelian gauge field theories, establishing a robust mathematical foundation for advanced quantum mechanics. This project is supervised by [Dr. Leek Meng Lee](https://dr.ntu.edu.sg/entities/person/Leek-Meng-Lee). 
+**Review of Gauge Field Theories (Odyssey Research Project):** I am conducting a rigorous review of quantum mechanical formalism and relativistic matter fields, with a specific focus on the Klein-Gordon and Dirac equations. The primary objective of this work is to study in depth the theoretical formulation of Abelian and non-Abelian gauge field theories, establishing a mathematical foundation for advanced quantum mechanics. This project is supervised by [Dr. Leek Meng Lee](https://dr.ntu.edu.sg/entities/person/Leek-Meng-Lee). 
 
 
 ## Notes & Resources
