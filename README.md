@@ -20,3 +20,37 @@ Beyond my coursework and research, I have a strong interest in problem-solving a
 **Olympiad & Competitive Physics Outreach**
 The following notes are parts of an incomplete Physics Olympiad textbook project. More chapters are to be uploaded soon. For questions or to report any mistakes, please feel free to reach out to me via social media or personal <a href="mailto:ishtiakk10@gmail.com">email.</a> 
 * Translational Dynamics  <a href="chapter3 bn.pdf" target="_blank"><b> (Bengali)</b></a> <a href="chapter3 en.pdf" target="_blank"><b> (English)</b></a>
+
+
+
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // 1. Create the button dynamically
+    const toggleBtn = document.createElement("button");
+    toggleBtn.id = "theme-toggle";
+    toggleBtn.innerHTML = "🌙 Dark Mode";
+    document.body.appendChild(toggleBtn);
+
+    // 2. Check if the user previously chose dark mode
+    if (localStorage.getItem("theme") === "dark") {
+      document.body.classList.add("dark-mode");
+      toggleBtn.innerHTML = "☀️ Light Mode";
+    }
+
+    // 3. Listen for clicks to switch modes
+    toggleBtn.addEventListener("click", function() {
+      document.body.classList.toggle("dark-mode");
+      
+      // Save the preference and change the icon
+      if (document.body.classList.contains("dark-mode")) {
+        localStorage.setItem("theme", "dark");
+        toggleBtn.innerHTML = "☀️ Light Mode";
+      } else {
+        localStorage.setItem("theme", "light");
+        toggleBtn.innerHTML = "🌙 Dark Mode";
+      }
+    });
+  });
+</script>
