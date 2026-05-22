@@ -1,25 +1,18 @@
 # Ishtiak Golam
 
-Second-year undergraduate at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), pursuing a Bachelor of Science in Physics with a Second Major in Data Analytics. My primary interests lie in theoretical physics, specifically quantum dynamics, statistical mechanics, and general relativity. 
+Third-year undergraduate at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), pursuing a Bachelor of Science in Physics with a Second Major in Data Analytics. My primary interests lie in theoretical physics, specifically quantum dynamics, statistical mechanics, and general relativity. I am expected to graduate in January 2028.
 
-I am graduating early in December 2027 and am actively exploring paths toward a PhD in theoretical physics.
+Beyond my coursework and research, I have a strong interest in problem-solving and teaching. I was an active participant in the Bangladesh Physics Olympiad (BdPhO) until 2023, and have since transitioned to mentoring at their national training camps. I have also mentored students at the Bangladesh Junior Science Olympiad (BdJSO). Teaching competitive physics directly inspired me to compile extensive study notes in both Bengali and English to make advanced concepts more accessible.
 
-[**Curriculum Vitae (PDF)**](#) | [**GitHub**](https://github.com/ishtiak10) | **Email:** ishtiak[at]ntu.edu.sg
+[**Curriculum Vitae (PDF)**](https://github.com/ishtiakk/ishtiakk.github.io/blob/main/CV_Ishtiak_Golam%20(Final).pdf) | [**GitHub**](https://github.com/ishtiak10) | **Email:** isht0001@e.ntu.edu.sg(mailto:isht0001@e.ntu.edu.sg)
 
 ---
 
-## Current Research
-* **1D Bosonic Quantum Gases (URECA Project)**
-  * Investigating the relaxation dynamics of 1D bosonic quantum gases using the Lieb-Liniger model.
-  * Utilizing computational tools (Python, C) to model thermalization.
-  * *Supervisor: Professor Nelly, NTU*
+## Research & Projects
 
-* **Odyssey Research Project (Upcoming)**
-  * Conducting a rigorous literature review on Quantum Field Theory (QFT) to build a strong mathematical foundation for future theoretical work.
+**1D Bosonic Quantum Gases (URECA Project):** For my ongoing URECA project under the supervision of Professor Nelly Ng Huei Ying (https://dr.ntu.edu.sg/entities/person/Nelly-Ng-Huei-Ying), I am conducting a theoretical and computational investigation into the relaxation dynamics and thermalization of 1D bosonic quantum gases. This research utilizes Python to model and simulate these systems based on the exact solutions of the Lieb-Liniger model.
 
-## Past Projects
-* **Experimental Analysis of Stirling Engines**
-  * Conducted an experimental analysis of thermal lag and hysteresis dependent on engine acceleration.
+**Quantum Field Theory and Gauge Fields (Odyssey Project):** Looking ahead to my upcoming Odyssey research project, I will be conducting a rigorous literature review focused on Quantum Field Theory and gauge field theory. The primary objective of this work is to establish a robust mathematical foundation that will support my future theoretical research in advanced quantum mechanics and relativity.
 
 ## Publications & Outreach
 * **Physics Olympiad Guidebook (Bengali)**
