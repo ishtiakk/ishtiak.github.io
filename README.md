@@ -2,7 +2,7 @@
 
 Third-year undergraduate at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), pursuing a Bachelor of Science in Physics with a Second Major in Data Analytics. My primary interests lie in theoretical physics, specifically quantum dynamics, statistical mechanics, and general relativity. I am expected to graduate in January 2028.
 
-Beyond my coursework and research, I have a strong interest in problem-solving and teaching. I was an active participant in the Bangladesh Physics Olympiad (BdPhO) until 2023, and have since transitioned to mentoring at their national training camps. I have also mentored students at the Bangladesh Junior Science Olympiad (BdJSO). I have previously worked with Mercor Intelligence to design adversarial, Olympiad-level physics problem sets to test and train AI models. Teaching competitive physics directly inspired me to compile extensive study notes in both Bengali and English to make advanced concepts more accessible.
+Beyond my coursework and research, I have a strong interest in problem-solving and teaching. I was an active participant in the Bangladesh Physics Olympiad (BdPhO) until 2023 and later mentored at multiple national training camps for the Bangladesh Physics Olympiad and Bangladesh Junior Science Olympiad. I have previously worked with Mercor Intelligence to design adversarial, Olympiad-level physics problem sets to test and train AI models. Teaching competitive physics inspired me to compile extensive study notes in both Bengali and English to make physics concepts more accessible.
 
 <a href="CV_Ishtiak_Golam.pdf" target="_blank"><b>Curriculum Vitae (PDF)</b></a> | **Email:** <a href="mailto:isht0001@e.ntu.edu.sg">isht0001@e.ntu.edu.sg</a>
 
