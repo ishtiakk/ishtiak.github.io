@@ -4,7 +4,7 @@ Third-year undergraduate at [Nanyang Technological University (NTU)](https://www
 
 Beyond my coursework and research, I have a strong interest in problem-solving and teaching. I was an active participant in the Bangladesh Physics Olympiad (BdPhO) until 2023, and have since transitioned to mentoring at their national training camps. I have also mentored students at the Bangladesh Junior Science Olympiad (BdJSO). I have previously worked with Mercor Intelligence to design adversarial, Olympiad-level physics problem sets to test and train AI models. Teaching competitive physics directly inspired me to compile extensive study notes in both Bengali and English to make advanced concepts more accessible.
 
-<a href="CV_Ishtiak_Golam.pdf" target="_blank"><b>Curriculum Vitae (PDF)</b></a> | **Email:** <a href="mailto:isht0001@e.ntu.edu.sg">isht0001[at]e.ntu.edu.sg</a>
+<a href="CV_Ishtiak_Golam.pdf" target="_blank"><b>Curriculum Vitae (PDF)</b></a> | **Email:** <a href="mailto:isht0001@e.ntu.edu.sg">isht0001@e.ntu.edu.sg</a>
 
 ---
 
@@ -18,5 +18,5 @@ Beyond my coursework and research, I have a strong interest in problem-solving a
 ## Notes & Resources
 
 **Olympiad & Competitive Physics Outreach**
-The following notes are parts of an incomplete Physics Olympiad textbook project. More chapters are to be uploaded soon. For questions or to report any mistakes, please feel free to reach out to me via social media or via personal <a href="mailto:ishtiakk10@gmail.com">email</a> 
+The following notes are parts of an incomplete Physics Olympiad textbook project. More chapters are to be uploaded soon. For questions or to report any mistakes, please feel free to reach out to me via social media or personal <a href="mailto:ishtiakk10@gmail.com">email.</a> 
 * <a href="Chapter%203%20v1.pdf" target="_blank"><b> Translational Dynamics (Bengali)</b></a>
