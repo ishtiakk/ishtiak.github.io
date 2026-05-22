@@ -1,4 +1,4 @@
-# Ishtiak Golam
+# Golam Ishtiak
 
 Third-year undergraduate at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), pursuing a Bachelor of Science in Physics with a Second Major in Data Analytics. My primary interests lie in theoretical physics, specifically quantum dynamics, statistical mechanics, and general relativity. I am expected to graduate in January 2028.
 
