@@ -19,4 +19,4 @@ Beyond my coursework and research, I have a strong interest in problem-solving a
 
 **Olympiad & Competitive Physics Outreach**
 The following notes are parts of an incomplete Physics Olympiad textbook project. More chapters are to be uploaded soon. For questions or to report any mistakes, please feel free to reach out to me via social media or personal <a href="mailto:ishtiakk10@gmail.com">email.</a> 
-* <a href="Chapter%203%20v1.pdf" target="_blank"><b> Translational Dynamics (Bengali)</b></a>
+* Translational Dynamics  <a href="chapter3%bn.pdf" target="_blank"><b> (Bengali)</b></a> <a href="chapter3%en.pdf" target="_blank"><b> (English)</b></a>
