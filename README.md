@@ -20,3 +20,12 @@ Beyond my coursework and research, I have a strong interest in problem-solving a
 **Olympiad & Competitive Physics Outreach**
 The following notes are parts of an incomplete Physics Olympiad textbook project. More chapters are to be uploaded soon. For questions or to report any mistakes, please feel free to reach out to me via social media or via personal <a href="mailto:ishtiakk10@gmail.com">email</a> 
 * <a href="Chapter%203%20v1.pdf" target="_blank"><b> Translational Dynamics (Bengali)</b></a>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CGKZF5FPHY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CGKZF5FPHY');
+</script>
