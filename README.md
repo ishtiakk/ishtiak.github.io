@@ -30,13 +30,14 @@ The following notes are parts of an incomplete Physics Olympiad textbook project
     // 1. Create the button dynamically
     const toggleBtn = document.createElement("button");
     toggleBtn.id = "theme-toggle";
-    toggleBtn.innerHTML = "🌙 Dark Mode";
     document.body.appendChild(toggleBtn);
 
-    // 2. Check if the user previously chose dark mode
-    if (localStorage.getItem("theme") === "dark") {
+    // 2. Default to Dark Mode unless they explicitly chose "light"
+    if (localStorage.getItem("theme") !== "light") {
       document.body.classList.add("dark-mode");
       toggleBtn.innerHTML = "☀️ Light Mode";
+    } else {
+      toggleBtn.innerHTML = "🌙 Dark Mode";
     }
 
     // 3. Listen for clicks to switch modes
