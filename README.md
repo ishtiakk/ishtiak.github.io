@@ -4,7 +4,7 @@ Third-year undergraduate at [Nanyang Technological University (NTU)](https://www
 
 Beyond my coursework and research, I have a strong interest in problem-solving and teaching. I was an active participant in the Bangladesh Physics Olympiad (BdPhO) until 2023, and have since transitioned to mentoring at their national training camps. I have also mentored students at the Bangladesh Junior Science Olympiad (BdJSO). Teaching competitive physics directly inspired me to compile extensive study notes in both Bengali and English to make advanced concepts more accessible.
 
-[**Curriculum Vitae (PDF)**](https://github.com/ishtiakk/ishtiakk.github.io/blob/main/CV_Ishtiak_Golam%20(Final).pdf) | [**GitHub**](https://github.com/ishtiak10) | **Email:** isht0001@e.ntu.edu.sg(mailto:isht0001@e.ntu.edu.sg)
+[<a href="CV_Ishtiak_Golam.pdf" target="_blank"><b>Curriculum Vitae (PDF)</b></a> | **Email:** <a href="mailto:isht0001@e.ntu.edu.sg">isht0001[at]e.ntu.edu.sg</a>
 
 ---
 
