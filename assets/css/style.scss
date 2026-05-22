@@ -17,9 +17,10 @@ body.dark-mode a {
 }
 
 /* Floating Toggle Button Styles */
+/* Floating Toggle Button Styles */
 #theme-toggle {
   position: fixed;
-  bottom: 20px;
+  top: 20px;    /* Changed from bottom to top */
   right: 20px;
   padding: 10px 15px;
   background-color: #333;
