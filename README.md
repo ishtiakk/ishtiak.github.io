@@ -10,12 +10,8 @@ Beyond my coursework and research, I have a strong interest in problem-solving a
 
 ## Research & Projects
 
-**1D Bosonic Quantum Gases (URECA Project):** For my ongoing URECA project under the supervision of Professor Nelly Ng Huei Ying (https://dr.ntu.edu.sg/entities/person/Nelly-Ng-Huei-Ying), I am conducting a theoretical and computational investigation into the relaxation dynamics and thermalization of 1D bosonic quantum gases. This research utilizes Python to model and simulate these systems based on the exact solutions of the Lieb-Liniger model.
+**1D Bosonic Quantum Gases (URECA Project):** For my ongoing URECA project under the supervision of Professor Nelly Ng Huei Ying (https://dr.ntu.edu.sg/entities/person/Nelly-Ng-Huei-Ying), I am conducting a theoretical and computational investigation into the relaxation dynamics and thermalization of 1D bosonic quantum gases. This research uses Python to model and simulate these systems using the exact solutions of the Lieb-Liniger model.
 
-**Quantum Field Theory and Gauge Fields (Odyssey Project):** Looking ahead to my upcoming Odyssey research project, I will be conducting a rigorous literature review focused on Quantum Field Theory and gauge field theory. The primary objective of this work is to establish a robust mathematical foundation that will support my future theoretical research in advanced quantum mechanics and relativity.
+**Review of Gauge Field Theories (Odyssey Project):** I am conducting a rigorous review of quantum mechanical formalism and relativistic matter fields, with a specific focus on the Klein-Gordon and Dirac equations. The primary objective of this work is to study in depth the theoretical formulation of Abelian and non-Abelian gauge field theories, establishing a robust mathematical foundation for advanced quantum mechanics.
 
-## Publications & Outreach
-* **Physics Olympiad Guidebook (Bengali)**
-  * Authoring an open-source, comprehensive competitive physics textbook. Currently in development and being released serially.
-* **Open-Source Academic Hub**
-  * Maintaining a repository for course notes, computational physics scripts, and upcoming literature reviews to make advanced physics concepts more accessible.
+
