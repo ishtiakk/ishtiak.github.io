@@ -2,6 +2,8 @@
 
 Third-year undergraduate at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/), pursuing a Bachelor of Science in Physics with a Second Major in Data Analytics. My primary interests lie in theoretical physics, specifically quantum dynamics, statistical mechanics, and general relativity. I am expected to graduate in January 2028.
 
+I was born and raised in Kushtia, Bangladesh. I initially began my undergraduate studies in Mechanical Engineering at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/), but quickly realized my passion lay in understanding fundamental laws and not applied mechanics. This drive led me to withdraw from BUET and move to NTU to pursue my passion. 
+
 Beyond my coursework and research, I have a strong interest in problem-solving and teaching. I was an active participant in the Bangladesh Physics Olympiad (BdPhO) until 2023 and later mentored at multiple national training camps for the Bangladesh Physics Olympiad and Bangladesh Junior Science Olympiad. I have previously worked with Mercor Intelligence to design adversarial, Olympiad-level physics problem sets to test and train AI models. Teaching competitive physics inspired me to compile extensive study notes in both Bengali and English to make physics concepts more accessible.
 
 <a href="CV_Ishtiak_Golam.pdf" target="_blank"><b>Curriculum Vitae (PDF)</b></a> | **Email:** <a href="mailto:isht0001@e.ntu.edu.sg">isht0001@e.ntu.edu.sg</a>
@@ -18,8 +20,10 @@ Beyond my coursework and research, I have a strong interest in problem-solving a
 ## Notes & Resources
 
 **Olympiad & Competitive Physics Outreach**
-The following notes are parts of an incomplete Physics Olympiad textbook project. More chapters are to be uploaded soon. For questions or to report any mistakes, please feel free to reach out to me via social media or personal <a href="mailto:ishtiakk10@gmail.com">email.</a> 
+The following notes are parts of an incomplete Physics Olympiad textbook project. More chapters are to be uploaded soon. For any suggestions or to report any mistakes, please reach out to me via social media or personal <a href="mailto:ishtiakk10@gmail.com">email.</a> 
+Although I studied under the Bengali medium curriculum, I learned most physics concepts through English textbooks. I have tried to make the Bengali translations as clear as possible, but if any terminology seems out of place, please refer to the English version of the PDF.
 * Translational Dynamics  <a href="chapter3 bn.pdf" target="_blank"><b> (Bengali)</b></a> <a href="chapter3 en.pdf" target="_blank"><b> (English)</b></a>
+* Oscillations  <a href="chapter6 bn.pdf" target="_blank"><b> (Bengali)</b></a> <a href="chapter6 en.pdf" target="_blank"><b> (English)</b></a>
 
 
 
